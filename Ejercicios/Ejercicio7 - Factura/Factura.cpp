@@ -18,6 +18,7 @@ int main(int argc, char const *argv[])
     total = subtotal + (subtotal * impuesto);
 
     //salida
+    
     cout << endl;
     cout << "Total a pagar es de: " << total; 
 
